@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Azuaje</h1>
 <h3 align="center">Aspiring to become a developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-azuaje&label=Profile%20views&color=0e75b6&style=flat" alt="chris-azuaje" /> </p>
 
