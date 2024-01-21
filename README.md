@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Chris Azuaje</h1>
-<h3 align="center">Frontend developer 👨‍💻</h3>
+<h3 align="center">Graduate student at UNC Charlotte 👨‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-azuaje&label=Profile%20views&color=0e75b6&style=flat" alt="chris-azuaje" /> </p>
 
-- Currently building a new website for a local campground using React and TypeScript.
+- Currently pursuing a Software Development Graduate Certificate.
 
 - Feel free to reach out -> **christopherazuaje@gmail.com**
 
