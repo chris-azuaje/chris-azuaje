@@ -1,7 +1,8 @@
 <h2 align="center">Hi, I'm Chris Azuaje</h2>
 <h3 align="center">A software developer, graduate student, and avid traveler ✈</h3>
 
-- Currently pursuing a Software Development Graduate Certificate at [UNC Charlotte](https://www.charlotte.edu/)🎓
+- Pursuing a Software Development Graduate Certificate at [UNC Charlotte](https://www.charlotte.edu/)🎓
+- Currently learning Java ☕
 - Feel free to send me a message 📩 christopherazuaje@gmail.com
 - Check out my [website!](https://chrisazuaje.com/)
 
